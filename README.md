@@ -79,8 +79,3 @@ Building this system demonstrates a strong understanding of AWS service integrat
 > `https://your-api-id.execute-api.us-east-1.amazonaws.com/prod/announce`
 
 ---
-
-🔒 Cloud Engineering Support Skills Highlighted
-- **IAM Boundary Security:** Demonstrated implementation of cloud policies using standard managed rules (`AmazonSNSFullAccess`) to bridge disconnected platform layers safely.
-- **Stateless Serverless Routing:** Leveraged AWS native managed proxies to process inbound HTTP traffic without maintaining or paying for physical server hardware.
-- **Environment Variable Abstraction:** Kept architecture modular by decoupling platform resource strings (ARNs) away from basic logical components.
