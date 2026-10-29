@@ -75,7 +75,6 @@ Building this system demonstrates a strong understanding of AWS service integrat
 3. Set the **Stage name** to `prod` and click **Deploy**.
 4. The system will display an **Invoke URL** at the top of the screen.
 
-> 🎯 **Final Active URL:** Add your resource name to the end of the link to get your working endpoint:
-> `https://your-api-id.execute-api.us-east-1.amazonaws.com/prod/announce`
+
 
 ---
