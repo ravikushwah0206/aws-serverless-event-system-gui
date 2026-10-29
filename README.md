@@ -1,13 +1,14 @@
-# aws-serverless-event-system-gui
+aws-serverless-event-system-gui
 
-# AWS Serverless Event Announcement System (Step-by-Step GUI Guide)
+AWS Serverless Event Announcement System (Step-by-Step GUI Guide)
 
 📌 Project Overview
+
 This repository document acts as a deployment guide for building a serverless, event-driven notification microservice directly inside the AWS Management Console using the Graphical User Interface (GUI). 
 
-This project connects **Amazon API Gateway**, **AWS Lambda**, and **Amazon SNS** to build a public web link that automatically fires off alerts to subscribers. 
+This project connects Amazon API Gateway,Amazon SNS to build a public web link that automatically fires off alerts to subscribers. 
 
-Building this system demonstrates a strong understanding of AWS service integration, cloud security (IAM) permissions, and infrastructure troubleshooting skills required for **Cloud Support** and Operations engineering.
+Building this system demonstrates a strong understanding of AWS service integration, cloud security (IAM) permissions, and infrastructure troubleshooting skills required for Cloud Support and Operations engineering.
 
 ---
 
