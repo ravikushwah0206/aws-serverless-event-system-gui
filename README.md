@@ -20,7 +20,7 @@ Building this system demonstrates a strong understanding of AWS service integrat
 5. Set the Name to: `event-announcements-topic`
 6. Set the Display name to: `Event Alerts`
 7. Scroll to the bottom and click Create topic.
-8. Copy the ARN string (e.g., `arn:aws:sns:us-east-1:123456789012:event-announcements-topic`) to your notepad. You will need this later.
+8. Copy the ARN string.
 
 ---
 
